@@ -9,12 +9,20 @@
         "build": "rimraf lib && tsc",
         "test": "echo \"Error: no test specified\""
     },
-    "author": "",
-    "license": "ISC",
     "dependencies": {
         "zx": "^4.3.0"
     },
     "devDependencies": {
         "rimraf": "^3.0.2"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/daichangxin/delete-ndsc.git.git"
+    },
+    "author": "daichangxin",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/daichangxin/delete-ndsc.git/issues"
+    },
+    "homepage": "https://github.com/daichangxin/delete-ndsc.git#readme"
 }
