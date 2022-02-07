@@ -1,7 +1,5 @@
 #!/usr/bin/env zx
 
-import { $ } from 'zx';
-
 const rmFiles = async () => {
     await $`sudo rm -rf /usr/local/lib/ndsc`;
 };
