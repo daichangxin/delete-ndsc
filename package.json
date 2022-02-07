@@ -1,0 +1,20 @@
+{
+    "name": "delete-ndsc",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "lib/index.js",
+    "scripts": {
+        "start": "zx lib/index.js",
+        "build": "rimraf lib && tsc",
+        "test": "echo \"Error: no test specified\""
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "zx": "^4.3.0"
+    },
+    "devDependencies": {
+        "rimraf": "^3.0.2"
+    }
+}
