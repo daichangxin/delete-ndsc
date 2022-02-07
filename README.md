@@ -1,5 +1,7 @@
 # delete-ndsc
 
+delete ndsc files and kill process.
+
 ## Usage
 
 ```
